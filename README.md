@@ -2,6 +2,22 @@
  
 This repository contains the assessment for the Applied Statistics module at ATU as part of the HDip in Computer Science, Data Analytics. The project follows a series of problems set, serving to explore statistical analysis of various types of synthetic datasets.
 
+The problems can be found in the [problems notebook](problems.ipynb).
+
+There is a [requirements](requirements.txt) file containing the required packages for the project.
+
+To execute the code contained in this project, please open the problems notebook in CodeSpaces, VSCode or JupyterNotebook in a python environment with the required packages installed.
+
+Installing packages:
+
+> pip install -r requirements.txt
+
+or
+
+> conda create --name <environment-name> --file requirements.txt
+
+The full problems are as follows:
+
 ## Problems
 
 ### Problem 1: Extending the Lady Tasting Tea
