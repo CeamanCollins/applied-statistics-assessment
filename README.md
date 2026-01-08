@@ -99,4 +99,6 @@ The following technologies and tools were used in this project:
 
 ---
 
-This README now includes a detailed **Technologies Used** section in alignment with your other repositories. Let me know if you’d like further refinements.
+## Contact
+
+For any issues or questions regarding this project, please feel free to contact **Céaman Collins**, the sole contributor. You can reach out via GitHub.
